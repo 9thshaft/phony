@@ -112,8 +112,8 @@ ndcs_with_5_subscriber_digits = %w(
 
 ndcs_with_6_subscriber_digits = %w(152 154 162 163 165 174 176 177 212 214 216 222 225 232 236 602)
 
-# Allow to use 88 for testing purposes
-ndcs_with_7_subscriber_digits = %w(17 25 29 33 44 88)
+# Allow to use 77 for testing purposes
+ndcs_with_7_subscriber_digits = %w(17 25 29 33 44 77)
 
 Phony.define do
   country '375',
